@@ -1,0 +1,16 @@
+# Build & environment artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.log
+mount.log
+
+# Private device dumps (raw hardware properties, serials, logs)
+device_dump/
+device_dump/*
+
+# OS specific files
+.DS_Store
+Thumbs.db
+*.swp
+*~
